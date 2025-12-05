@@ -13,13 +13,22 @@
 * [All Data + Model Outputs for Benchmarking](https://zenodo.org/records/15529996)
 
 **Python Packages**
+* os
+* glob
+* time
+* random
+* itertools
+* reduce from functools
+* deepcopy from copy
 * pandas
 * numpy
-* tensorflow
-* matplotlib
-* rasterio
 * geopandas
-* scikit-learn
+* Point from shapely.geometry
+* tensorflow
+* layers, callbacks, backend from tensorflow.keras
+* StandardScaler from sklearn.preprocessing
+* matplotlib.pyplot
+* Line2D from matplotlib.lines
 
 **Methods**
 
