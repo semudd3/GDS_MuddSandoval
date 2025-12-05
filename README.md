@@ -33,7 +33,7 @@ This project will use machine learning processes to predict monthly maximum disc
 
 **Expected outcomes**
 
-* Predict the distribution of annual maximum discharge at multiple gauged sites in a chosen region for each year
+* Predict monthly maximum discharge at multiple ungauged sites (gauged but withheld from training data) in NC/VA for several years
 
 * Calibrate uncertainty estimates
 
