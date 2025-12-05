@@ -4,7 +4,7 @@
 
 **Summary**: This research project utilizes deep learning to predict annual maximum discharge to reduce uncertainty for input into depth-damage functions for flood risk assessment, focusing on extrapolating onto ungauged sites.
 
-**Problem Statement**: Can machine learning predictions of annual maximum discharge improve uncertainty analysis for depth-damage curves of flood risk assessments at sites without gauges?
+**Problem Statement**: Can machine learning predictions of monthly maximum discharge improve uncertainty analysis for flood risk assessments at local sites without gauges?
 
 **Data**
 * [USGS Stream Gauge Data](https://waterdata.usgs.gov/nwis/rt)
